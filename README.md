@@ -2,7 +2,7 @@
 
 ## Overview of Project
 This project is intended to develop a VBA script that will quickly comb through thousands of lines of data to pull 
-our pertinent information for specificed variables (stock symbols). This allows end users to quickly examine valuable data points and provide even more
+out pertinent information for specificed variables (stock symbols). This allows end users to quickly examine valuable data points and provide even more
 value to their end users. In this case, we were able to assist Steve by building a macro that looped through 2017/2018 data sets and calculated certain fields based on required information.
 
 
